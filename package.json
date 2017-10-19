@@ -1,0 +1,19 @@
+{
+  "name": "wb-ng-sweetalert2",
+  "version": "1.0.0",
+  "description": "AngularJS wrapper for [SweetAlert](http://tristanedwards.me/sweetalert). Sweet Alert is a beautiful replacement for Javascript's \"Alert\".",
+  "main": "SweetAlert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Workbuster/ngSweetAlert2.git"
+  },
+  "author": "Jonathan Skogelin <jonathan.skogelin@gmail.com> (https://github.com/jskogelin)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Workbuster/ngSweetAlert2/issues"
+  },
+  "homepage": "https://github.com/Workbuster/ngSweetAlert2#readme"
+}

@@ -24,7 +24,7 @@
 	],
 	"dependencies": {
 		"angular":"~1.2.0",
-		"sweetalert2": "https://github.com/sweetalert2/sweetalert2/commit/6f09551e47f23fc1b5df7b6c21846b5decb4841f"
+		"sweetalert2": "https://github.com/sweetalert2/sweetalert2.git#6f09551e47f23fc1b5df7b6c21846b5decb4841f"
 	},
 	"devDependencies": {
 	}
